@@ -1,0 +1,16 @@
+  328  cat word.txt
+  329  sort < words.txt > sorted_sowrds.txt
+  330  sort < word.txt > sorted_word.txt
+  331  cat sorted_word.txt
+  332  sort < word.txt > sorted_word.txt
+  333  ls -sh | less
+  334  ls -sh | less
+  335  ls wc -1
+  336  ls | wc -1
+  337  ls -l\\n
+  338  nono myscript.sh
+  339  nano myscript.sh
+  340  ls
+  341  ls -lh
+  342  sh Shell scrpit
+  343  history
