@@ -1,0 +1,7 @@
+School
+Class
+Home
+New
+Lecture
+Cat
+Dog
