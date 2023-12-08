@@ -1,0 +1,20 @@
+total 0
+drwx------    3 heewon  staff    96B  1 18  2021 Applications
+drwxr-xr-x@   3 heewon  staff    96B  1 18  2021 Applications (Parallels)
+drwx------@   4 heewon  staff   128B  6 10  2022 Creative Cloud Files
+drwx------+  20 heewon  staff   640B 10 14 22:55 Desktop
+drwx------+   8 heewon  staff   256B  9 29 19:09 Documents
+drwx------@  86 heewon  staff   2.7K 10 14 22:11 Downloads
+drwx------@ 103 heewon  staff   3.2K 10 12 17:05 Library
+drwx------+   8 heewon  staff   256B 10  9  2022 Movies
+drwx------+   9 heewon  staff   288B 10  9  2022 Music
+drwxr-xr-x    2 heewon  staff    64B 10 15 19:39 OSS
+drwxr-xr-x    2 heewon  staff    64B  4  6  2020 Parallels
+drwx------+   8 heewon  staff   256B  4  6  2020 Pictures
+drwx------+   5 heewon  staff   160B  4  6  2020 Public
+drwxr-xr-x   26 heewon  staff   832B  3 27  2023 anaconda3
+-rw-r--r--    1 heewon  staff     0B 10 15 20:13 file_list.txt
+drwxrwxr-x@   4 heewon  staff   128B  9 28  2020 heewonk43@naver.com Creative Cloud Files
+-rw-r--r--@   1 heewon  staff     0B  4  2  2020 보안
+total 8
+-rw-r--r--  1 heewon  staff   1.0K 10 15 20:13 file_list.txt
